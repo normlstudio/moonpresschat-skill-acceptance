@@ -1,0 +1,16 @@
+{
+  "name": "moonpresschat-acceptance",
+  "metadata": {
+    "description": "Temporary MoonPress Chat Desktop acceptance marketplace. Not a production release channel."
+  },
+  "owner": {
+    "name": "Norml Studio"
+  },
+  "plugins": [
+    {
+      "name": "moonpresschat-acceptance",
+      "source": "./",
+      "description": "Safely research, configure, and verify MoonPress Chat on WordPress."
+    }
+  ]
+}

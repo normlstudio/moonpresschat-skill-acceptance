@@ -1,0 +1,33 @@
+{
+  "source_repository": "https://github.com/normlstudio/moonpresschat-skill",
+  "source_commit": "dde159ea6aac2e8c1a4df5a24b5b8c5013c2fa03",
+  "fixture_version": "0.6.0",
+  "source_files_sha256": {
+    ".claude/skills/moonpresschat-setup/SKILL.md": "a36431a6846ccfbd7a609a30ca1cf4c9a9a31a1a4f839a5260dc859423ce69d9",
+    ".claude/skills/moonpresschat-setup/actions/configure.md": "17195d372363e77ec582dc2abc82e4bbb459e00faf769f98f8f71b12db22cd5e",
+    ".claude/skills/moonpresschat-setup/actions/connect.md": "f5147eb4eec4c6e072a92fbc6b66513cf790d8a28050eea47821d39b810fb380",
+    ".claude/skills/moonpresschat-setup/actions/preflight.md": "b9496b6344075f5929e35dc1e52a9944cd9dd22dfb4fb6bd364ded133e2bdadf",
+    ".claude/skills/moonpresschat-setup/actions/questions.md": "0c70c7c044bc16c3f42a88e2312a300deb17013611c4eb499efa861a58b7dc6b",
+    ".claude/skills/moonpresschat-setup/actions/research.md": "712696285c61a9e742e5d1f7db06dfeace9b75fe746afdf38f99cd58ec8cedef",
+    ".claude/skills/moonpresschat-setup/actions/verify.md": "018223e9ba71815252c6a8408ca9ff92e531aa7ff6ad91ecb3649ac21ab67c11",
+    ".claude/skills/moonpresschat-setup/agents/openai.yaml": "255b078d3891044c38061c132216db5a1cf19e8e1894619cc154cb52f60cda33",
+    ".claude/skills/moonpresschat-setup/changelog.md": "60a1a801b524b874a8358d5d6940a339a084765433c216aeaed043083b931f3d",
+    ".claude/skills/moonpresschat-setup/contracts/admin-guided-path.md": "917459c48c3c122d6b2308a305715ed66411d298768d04be8a2f502c89a88c7f",
+    ".claude/skills/moonpresschat-setup/contracts/configuration-fields.md": "895bc9ea4fc9b7647a71482b425a471d9575904605e1c32bdd347ec269e5ce01",
+    ".claude/skills/moonpresschat-setup/contracts/current-api-contract.md": "233fc35dced872c651d9c8a1abb85f7df4beb0c1637b356f9c8ea06b0b7fb57b",
+    ".claude/skills/moonpresschat-setup/contracts/distribution-and-updates.md": "58910a98aa504b266191f2f2496f2f41f25c2931df98e0142b754113a3ddf7ec",
+    ".claude/skills/moonpresschat-setup/contracts/installation-and-rollback.md": "2faaba8ba31edd05147474c1c83867eb2bdf022d7253672bb8ebf2f93c2cf90a",
+    ".claude/skills/moonpresschat-setup/contracts/owner-experience.md": "5934cbebbf30a02e7907cf66081b8e08bd694a0f05ecc2897e3d1df78b72bc42",
+    ".claude/skills/moonpresschat-setup/contracts/security-model.md": "c1db65d797341d9083ce4f008d4ae6f983bcfeb8c6e094ae47501762d3a38113",
+    ".claude/skills/moonpresschat-setup/helper/moonpresschat-setup-helper.mjs": "e96c35bcddc298168ac315072adc7f2b170dbc689c6cc993efa16274e8bd8734",
+    ".claude/skills/moonpresschat-setup/qa/distribution-acceptance.md": "4d7dd39ed787ba4f12ae137e52321f7745f45ed973d84ddecdad5215ccc7a4ac",
+    ".claude/skills/moonpresschat-setup/qa/verification-checklist.md": "9bc4e6492b3da32a4fcdd3d6dc5a6a8b3eb4d890060fad0beb812c14492b4f78",
+    ".claude/skills/moonpresschat-setup/readme.data.json": "c81662b54516f0aa3180956eae2df0831525e8871816f79d6cc23f86c7cd905f",
+    ".claude/skills/moonpresschat-setup/readme.html": "3352be5b7834c047cd0ecd32469024a31b779258493338583d6bad92f5bbbcfd",
+    ".claude/skills/moonpresschat-setup/readme.md": "e4ab15d61fa368eb760b31e20f587a9a4dd7b7456a07145b70b0f2f750ac4c08",
+    ".claude/skills/moonpresschat-setup/templates/configuration-plan.md": "050581a63eecac9de52733026542177566df5f489c2846715c2edc3b9d679f88",
+    ".claude/skills/moonpresschat-setup/templates/owner-answers.md": "a115abc504cdacb6153cd7c53ad9494369bca8d9e50fe80bfc084a7448094795",
+    ".claude/skills/moonpresschat-setup/templates/preflight.md": "12270b49a7ecd413bfaf284e1a104b655744e6e4cb3cf156e21b3eeaa2aafbd1",
+    ".claude/skills/moonpresschat-setup/templates/research.md": "6a566b279a592232117dcb4371cb6866bf34de03ef7c9aceb2eb2f7ff0560968"
+  }
+}

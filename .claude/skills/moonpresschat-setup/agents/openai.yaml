@@ -1,0 +1,4 @@
+interface:
+  display_name: "MoonPress Chat Setup"
+  short_description: "Safely configure and verify MoonPress Chat on WordPress"
+  default_prompt: "Use $moonpresschat-setup to safely set up MoonPress Chat on my WordPress site."
