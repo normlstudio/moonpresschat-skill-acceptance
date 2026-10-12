@@ -1,6 +1,6 @@
 {
   "skill": "moonpresschat-setup",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "repo": "moonpresschat-skill",
   "audience": "WordPress site owners and developers",
   "actsOn": "MoonPress Chat setup",
@@ -50,10 +50,10 @@
   "installNote": "Release channel only: the candidate marketplace is not on main yet. Desktop ZIP upload and local Code setup verified; marketplace restart/update acceptance pending.",
   "callout": {
     "label": "Public alpha",
-    "text": "Version 0.6.0 is an unreleased candidate with both paths. **The API path is the default** — MoonPress Chat's stable setup API (MoonPress Chat 5.0.0 or newer) plus the bundled macOS credential helper — and the human-guided wp-admin path remains the fallback for multisite, plugins older than 5.0.0, or unsupported credential backends."
+    "text": "Version 0.6.1 is an unreleased candidate with both paths. **The API path is the default** — MoonPress Chat's stable setup API (MoonPress Chat 5.0.0 or newer) plus the bundled macOS credential helper — and the human-guided wp-admin path remains the fallback for multisite, plugins older than 5.0.0, or unsupported credential backends."
   },
   "capabilities": {
-    "label": "What works in 0.6.0",
+    "label": "What works in 0.6.1",
     "items": [
       {
         "name": "Cold-start preflight",
@@ -144,7 +144,7 @@
       }
     ]
   },
-  "covers": "0.6.0",
+  "covers": "0.6.1",
   "generated": "2026-10-09",
   "hasHumanMd": true
 }

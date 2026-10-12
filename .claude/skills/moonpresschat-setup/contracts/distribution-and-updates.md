@@ -1,6 +1,6 @@
 # Distribution and compatibility
 
-Author: Artur Tsitou. Version 0.6.0 release candidate, 2026-10-01.
+Author: Artur Tsitou. Version 0.6.1 release candidate, 2026-10-01.
 
 The same public repository serves Claude Code and Codex marketplaces and the
 Skills CLI. `.claude-plugin/plugin.json` is the release version authority;

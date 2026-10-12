@@ -9,7 +9,7 @@ description: >
   MoonPress Chat without exposing WordPress passwords or AI-provider keys to the
   agent.
 metadata:
-  version: "0.6.0"
+  version: "0.6.1"
   author: "Norml Studio"
 ---
 
@@ -38,7 +38,7 @@ production change explicit and reviewable.
 
 ## Current release state
 
-Version 0.6.0 is a public alpha release candidate with two setup paths. It speaks
+Version 0.6.1 is a public alpha release candidate with two setup paths. It speaks
 the MoonPress Chat 5.0.0 contract; see the compatibility note below.
 
 Marketplace publication and independent desktop acceptance are pending;

@@ -2,7 +2,11 @@
 
 Temporary public test channel for [issue #211](https://github.com/normlstudio/moonpresschat-plugin/issues/211). Maintained by Artur Tsitou, Norml Studio. This is not a production release channel.
 
-## Install the baseline
+## Current test version: 0.6.1
+
+Artur observed baseline 0.6.0 installed in Claude Desktop on 2026-10-12 (Added). Version 0.6.1 is now the update candidate; it changes only version markers and its fixture changelog. Restart-update acceptance is pending.
+
+## Baseline installation (completed)
 
 In Claude Desktop, add this marketplace using the plain repository URL:
 
@@ -12,7 +16,7 @@ Install **MoonPress Chat setup (acceptance)** and confirm version **0.6.0**. Use
 
 ## Update acceptance
 
-The maintainer will publish fixture version 0.6.1 only after the owner has observed 0.6.0 installed in Desktop. Then enable auto-update for this marketplace, restart Desktop, and record the installed version and the once-only skill update notice. Installation alone does not prove automatic updates.
+With baseline 0.6.0 already installed, enable auto-update for this marketplace, restart Desktop, and record installed version 0.6.1 and the once-only skill update notice. Installation alone does not prove automatic updates.
 
 Check Chat/Cowork refusal before any site access separately. Remove this test plugin and marketplace after acceptance; use the canonical product release for real sites.
 

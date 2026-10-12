@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.6.1 — 2026-10-12 (acceptance fixture only)
+
+- Test marketplace update: version marker only; setup behavior is unchanged.
+- Author: Artur Tsitou. This is not a canonical product release.
+
 ## 0.6.0 — unreleased candidate (updated 2026-10-09)
 
 - Added Marketplace packaging and version-aware setup preflight.
